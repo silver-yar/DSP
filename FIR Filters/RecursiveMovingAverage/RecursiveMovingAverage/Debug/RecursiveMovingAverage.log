@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\johnathan\desktop\c++\dsp\fir filters\recursivemovingaverage\recursivemovingaverage\main.cpp(62): warning C4018: '<': signed/unsigned mismatch
+  waveforms.cpp
+  Generating Code...
+  RecursiveMovingAverage.vcxproj -> C:\Users\Johnathan\Desktop\C++\DSP\FIR Filters\RecursiveMovingAverage\Debug\RecursiveMovingAverage.exe
